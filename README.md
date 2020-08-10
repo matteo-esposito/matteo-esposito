@@ -3,7 +3,7 @@
 #### What you'll find here
 
 - [x] University coursework
-- [x] Tools to make the above ^ a little easier
+- [x] Tools to make ^ a little easier
 - [x] Experimental projects
 
 #### What I use
