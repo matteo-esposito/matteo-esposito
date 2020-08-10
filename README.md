@@ -1,6 +1,6 @@
 ### Welcome to My Github Page!
 
-<img width="150px" src="https://media.tenor.com/images/6bfb6415d4711519d1c322a4b409c30e/tenor.gif">
+<img width="100px" src="https://media.tenor.com/images/6bfb6415d4711519d1c322a4b409c30e/tenor.gif">
 
 #### What you'll find here
 
