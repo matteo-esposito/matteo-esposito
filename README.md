@@ -1,13 +1,3 @@
-### Welcome to My Github Page!
-
-<img width="100px" src="https://media.tenor.com/images/6bfb6415d4711519d1c322a4b409c30e/tenor.gif">
-
-#### What you'll find here
-
-- [x] University coursework
-- [x] Tools to make ^ a little easier
-- [x] Experimental projects
-
 #### What I use
 
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
